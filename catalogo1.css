@@ -1,0 +1,133 @@
+/* Cabeçalho */
+#cabecalho1 {
+	width: 100%;
+	height: 130px;
+	background-color: #B40404;
+	border-bottom: solid 5px #FFFFFF;
+	margin-top: -10px 
+}
+
+#cabecalho2 {
+	width: 100%;
+	height: 60px;
+	background-color: #000000;
+}
+/* Fecha Cabeçalho*/
+
+
+/* Conteúdo */
+#corpo {
+	width: 1230px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+/* Conteúdo das Prateleiras */
+.tituloPrateleira {
+	text-align: center;
+	margin-top: 60px;
+	font-size: 24px;
+	font-family: 'effra', Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #36648B;
+}
+
+.logoMarca {
+	width: 84px;
+	height: 30px;
+}
+
+.fotoAnuncio {
+	width: 300px;
+	height: 300px;
+}
+
+.organizandoPrateleira {
+	width: 1200px;  
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.organizandoPrateleira ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0 auto;
+	height: 480px;
+	overflow: hidden;
+}
+
+.organizandoPrateleira ul li {
+	display: inline;
+	float: left;
+	margin-right: 60px;
+}
+
+li:hover {
+	transform: scale(1.05);
+}
+
+/* Texto Conteúdo das Prateleiras */
+.descricao {
+	text-align: center;
+	font-family: 'effra', Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #36648B;
+}
+
+.precovelho {
+	text-align: center;
+	font-family: 'effra', Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: red;
+	text-decoration: line-through;
+}
+
+.preconovo {
+	text-align: center;
+	font-family: 'effra', Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+}
+
+.conteudo {
+	border: black 1px solid;
+	margin-top: 40px;
+	width: 100px;
+	height: 300px;
+	position: absolute;
+	margin-left: 300px;
+	background-color: white; 
+	color: black; 
+	padding:10px;
+}
+
+/* Fecha Texto Conteúdo das Prateleiras */
+/* Fecha Conteúdo das Prateleiras */
+/* Fecha Conteúdo */
+
+
+/* Rodapé */
+#rodape {
+	position: relative;
+	bottom: -100px;
+	clear: both;
+	width: 100%;
+		
+}
+
+#rodape1 {
+	background-color: #000000;
+	height: 50px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#rodape2 {
+	width: 100%;
+	height: 30px;
+	background-color: #B40404;
+	border-top: solid 5px #FFFFFF;
+}
+/* Fecha Rodapé */
